@@ -1,0 +1,3 @@
+Special Form (Forma Especial)
+
+Special form usa a mesma sintaxe de uma função porém nem todos os seus argumentos são avaliados. Cada special form tem sua própria regra de avaliação. Alguns exemplos em racket são: define, cond, if, lambda, let entre outros.
