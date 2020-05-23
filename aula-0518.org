@@ -1,0 +1,10 @@
+#+Title: aula 18 de maio de 2020
+
+* revisão
+
+1. dúvidas sobre código de números complexos.
+2. arquivos com soluções para os `99 problems`.
+
+* aula
+
+- Ex 2.73 (casa)
